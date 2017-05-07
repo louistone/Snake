@@ -1,1 +1,1 @@
-# Snake This a C++ version Snake game.
+# This a C++ version Snake game.
